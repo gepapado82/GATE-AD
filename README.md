@@ -150,5 +150,3 @@ PYTHONPATH=src python -m gate_ad.cli.run_one \
   --run_name visa_chewinggum_example
 ```
 
-## Notes
-- `datasets/` and `weights/` are intentionally ignored by git.
