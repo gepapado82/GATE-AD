@@ -1,14 +1,3 @@
-## Repository Layout
-
-```text
-GATE-AD/
-├── configs/defaults/         # dataset-specific default configs
-├── datasets/                 # local datasets
-├── scripts/                  # convenience launch scripts
-├── src/gate_ad/              # model/training/eval code
-└── weights/                  # local checkpoints 
-```
-
 ## Conda Environment Setup
 
 Python `>=3.10` is required.
